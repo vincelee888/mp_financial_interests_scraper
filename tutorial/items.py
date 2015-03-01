@@ -9,6 +9,6 @@ import scrapy
 
 class MpItem(scrapy.Item):
 	name = scrapy.Field()
-	borough = scrapy.Field()
+	constituency = scrapy.Field()
 
 

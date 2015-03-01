@@ -25,7 +25,7 @@ class MpSpider(CrawlSpider):
 
         mp = MpItem()
         mp["name"] = parsedTitle.firstName + " " + parsedTitle.surname
-        mp["borough"] = parsedTitle.borough
+        mp["constituency"] = parsedTitle.constituency
 
         print mp["name"]
 

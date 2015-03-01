@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a2d3743-21fa-4469-8140-0c829813544f" name="Default" comment="" />
+    <list default="true" id="1a2d3743-21fa-4469-8140-0c829813544f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/items.py" afterPath="$PROJECT_DIR$/tutorial/items.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/spiders/mp_spider.py" afterPath="$PROJECT_DIR$/tutorial/spiders/mp_spider.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mps.json" afterPath="$PROJECT_DIR$/mps.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/modules/test_title_parse.py" afterPath="$PROJECT_DIR$/tutorial/modules/test_title_parse.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/modules/title_parse.py" afterPath="$PROJECT_DIR$/tutorial/modules/title_parse.py" />
+    </list>
     <ignored path="tutorial.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +33,8 @@
       <file leaf-file-name="mp_spider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial/spiders/mp_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="925">
-              <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="925">
+              <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
               <folding>
                 <element signature="e#0#53#0" expanded="true" />
               </folding>
@@ -36,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mps.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mps.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mps.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3510942" vertical-offset="2831" max-vertical-offset="13040">
-              <caret line="160" column="61" selection-start-line="160" selection-start-column="54" selection-end-line="160" selection-end-column="61" />
+            <state vertical-scroll-proportion="-12.724138" vertical-offset="2851" max-vertical-offset="13040">
+              <caret line="161" column="61" selection-start-line="160" selection-start-column="54" selection-end-line="160" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -50,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/tutorial/modules/title_parse.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="406">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+              <caret line="7" column="94" selection-start-line="7" selection-start-column="94" selection-end-line="7" selection-end-column="94" />
               <folding>
                 <element signature="e#26#35#0" expanded="true" />
               </folding>
@@ -58,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_title_parse.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test_title_parse.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tutorial/modules/test_title_parse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
-              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.30769232" vertical-offset="0" max-vertical-offset="715">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -72,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/tutorial/items.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -91,11 +97,11 @@
         <option value="$PROJECT_DIR$/title_parse.py" />
         <option value="$PROJECT_DIR$/tests/title_parsing_tests.py" />
         <option value="$PROJECT_DIR$/tutorial/modules/title_parsing_tests.py" />
-        <option value="$PROJECT_DIR$/tutorial/items.py" />
         <option value="$PROJECT_DIR$/mps.json" />
+        <option value="$PROJECT_DIR$/tutorial/items.py" />
         <option value="$PROJECT_DIR$/tutorial/modules/test_title_parse.py" />
-        <option value="$PROJECT_DIR$/tutorial/modules/title_parse.py" />
         <option value="$PROJECT_DIR$/tutorial/spiders/mp_spider.py" />
+        <option value="$PROJECT_DIR$/tutorial/modules/title_parse.py" />
       </list>
     </option>
   </component>
@@ -351,7 +357,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18622175" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942238" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942238" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -392,10 +398,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mps.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.724138" vertical-offset="2851" max-vertical-offset="13040">
+          <caret line="161" column="61" selection-start-line="160" selection-start-column="54" selection-end-line="160" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/spiders/mp_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="925">
+          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/modules/title_parse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="406">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <caret line="7" column="94" selection-start-line="7" selection-start-column="94" selection-end-line="7" selection-end-column="94" />
           <folding>
             <element signature="e#26#35#0" expanded="true" />
           </folding>
@@ -404,34 +436,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/modules/test_title_parse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/spiders/mp_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="925">
-          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mps.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3510942" vertical-offset="2831" max-vertical-offset="13040">
-          <caret line="160" column="61" selection-start-line="160" selection-start-column="54" selection-end-line="160" selection-end-column="61" />
+        <state vertical-scroll-proportion="0.30769232" vertical-offset="0" max-vertical-offset="715">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding />
         </state>
       </provider>
